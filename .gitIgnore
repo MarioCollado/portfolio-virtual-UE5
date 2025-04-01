@@ -1,0 +1,17 @@
+# Archivos generados por UE5 (no subir)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+
+# Archivos de usuario
+*.suo
+*.user
+*.sln
+
+# Assets pesados (opcional)
+*.png
+*.jpg
+*.fbx
