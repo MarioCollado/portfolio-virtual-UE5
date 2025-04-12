@@ -1,17 +1,31 @@
-# Archivos generados por UE5 (no subir)
+# Archivos generados por UE
 Binaries/
-DerivedDataCache/
 Intermediate/
 Saved/
-Build/
-.vs/
+DerivedDataCache/
 
 # Archivos de usuario
 *.suo
-*.user
 *.sln
+*.opensdf
+*.sdf
+*.user
+*.userosscache
+*.backup
 
-# Assets pesados (opcional)
-*.png
-*.jpg
-*.fbx
+# Archivos de compilación
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.lib
+*.exp
+*.log
+
+# Archivos específicos de UE
+Build/
+*.umap
+*.uasset
+*.uexp
+*.ubulk
+*.uptnl
